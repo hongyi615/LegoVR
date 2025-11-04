@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lego Bricks
+* source:	https://sketchfab.com/3d-models/lego-bricks-e04a66da0b4e4b6a86a7da18d8de4d75
+* author:	Dixept (https://sketchfab.com/Dixept)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lego Bricks" (https://sketchfab.com/3d-models/lego-bricks-e04a66da0b4e4b6a86a7da18d8de4d75) by Dixept (https://sketchfab.com/Dixept) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

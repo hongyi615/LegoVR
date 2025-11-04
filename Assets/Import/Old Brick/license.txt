@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lego Bricks
+* source:	https://sketchfab.com/3d-models/lego-bricks-0292ebb0ac4d492c8b1f9be295bbe93a
+* author:	BlackCube (https://sketchfab.com/blackcube4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lego Bricks" (https://sketchfab.com/3d-models/lego-bricks-0292ebb0ac4d492c8b1f9be295bbe93a) by BlackCube (https://sketchfab.com/blackcube4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
